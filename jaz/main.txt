@@ -1,0 +1,26 @@
+main
+
+
+
+package main;
+public class Main {
+    public static void main(String[] args) {
+        clasif condicional = new clasif();
+        condicional.setIgual (10,5);
+        condicional.setmayor(5, 6);
+        condicional.setMenor(5,9);
+        int[] so={1,2,3};
+        condicional.setmaximini(so);
+        condicional.setRaCua(m);//raiz cuadrada
+        condicional.funCua(x,y,n,d,s); //funcion cuadratica
+        condicional.setresta(10,5);
+        condicional.setmulti(4,2);
+        condicional.setdivi(10,2);
+        condicional.setAND(x,y);
+        condicional.setOR(x,y);
+        condicional.setNOT(x,y);
+       
+        
+        
+    }
+}
